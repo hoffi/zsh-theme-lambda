@@ -6,7 +6,7 @@ A zsh theme that does not overload your terminal.
 
 * Current path
 * Current git informations
-* Displays SSH-Session (prefixes "(ssh) <user>@<host>:" to the path)
+* Displays SSH-Session (prefixes `(ssh) <user>@<host>:` to the path)
 * Colorizes the Lambda Sign according to the last return status
 
 ## Screenshot
