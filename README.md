@@ -17,6 +17,23 @@ Font used in Screenshot: [Hack](https://github.com/chrissimpkins/Hack)
 
 Color Scheme of iTerm in Screenshot: [Pencil for iTerm](https://github.com/mattly/iterm-colors-pencil)
 
+## Installation
+
+### [antigen](https://github.com/zsh-users/antigen)
+
+Add this line to your `.zshrc`: **(Do not use `antigen theme`!)**
+```sh
+antigen bundle hoffi/zsh-theme-lambda
+```
+
+### Manual
+
+* Add this repo as a submodule or just download `zsh-theme-lambda.plugin.zsh`
+* Source it in your `.zshrc`:
+```sh
+source "<path>/zsh-theme-lambda.plugin.zsh"
+```
+
 ## Git info symbols
 
 * Unresolved merge conflict: °
