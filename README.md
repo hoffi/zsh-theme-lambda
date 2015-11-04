@@ -14,4 +14,5 @@ A zsh theme that does not overload your terminal.
 ![](https://raw.githubusercontent.com/hoffi/zsh-theme-lambda/master/screenshot.png)
 
 Font used in Screenshot: [Hack](https://github.com/chrissimpkins/Hack)
+
 Color Scheme of iTerm in Screenshot: [Pencil for iTerm](https://github.com/mattly/iterm-colors-pencil)
